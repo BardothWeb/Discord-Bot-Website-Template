@@ -1,5 +1,9 @@
 # 🚀 Discord Bot Website Template
 
+## 🖼️ Screenshots
+
+![Landing page screenshot](Screenshot1.png)
+
 ## 📝 About the Project
 
 Today, I'm excited to share with you a Discord Bot Website Template (landing page only), available for free! As a developer myself, I know the struggle of finding visually appealing and responsive templates for showcasing projects. So, I decided to create this template to make it easier for bot creators like you to present your creations to the world. Whether you're a seasoned developer or just starting out, this template is designed to help you make a strong first impression with your Discord bots.
@@ -39,6 +43,13 @@ If you'd like to contribute to this project, please follow these steps:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
 Please leave a credit when using this template.
+
+## 🖼️ Image Credits and Licensing
+
+Some of the images used in this template are sourced from external platforms such as Freepik and undraw. Please ensure that you review and respect the licenses associated with these images:
+
+- [Freepik License Agreement](https://www.freepikcompany.com/legal#nav-freepik)
+- [undraw License Agreement](https://undraw.co/license)
 
 ## 📧 Contact
 
