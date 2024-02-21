@@ -15,6 +15,7 @@ List of the technologies/frameworks/libraries used:
 - Bootstrap
 - HTML
 - CSS
+- JavaScript
 - Mobirise (basic base)
 
 ## ⚙️ Installation
