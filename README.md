@@ -21,7 +21,7 @@ List of the technologies/frameworks/libraries used:
 
 Steps to install:
 
-1. Fork the repository or clone it: `git clone https://github.com/your-username/your-repo.git
+1. Fork the repository or clone it: `git clone https://github.com/BardothWeb/Discord-Bot-Website-Template.git
 2. Open the index.html file in your browser.
 
 ## 🖥️ Usage
