@@ -6,7 +6,7 @@
 
 ## 📝 About the Project
 
-Today, I'm excited to share with you a Discord Bot Website Template (landing page only), available for free! As a developer myself, I know the struggle of finding visually appealing and responsive templates for showcasing projects. So, I decided to create this template to make it easier for bot creators like you to present your creations to the world. Whether you're a seasoned developer or just starting out, this template is designed to help you make a strong first impression with your Discord bots.
+Today, I'm excited to share with you a Discord Bot Website Template (yet landing page only), available for free! As a developer myself, I know the struggle of finding visually appealing and responsive templates for showcasing projects. So, I decided to create this template to make it easier for bot creators like you to present your creations to the world. Whether you're a seasoned developer or just starting out, this template is designed to help you make a strong first impression with your Discord bots.
 
 ## 🛠️ Technologies Used
 
