@@ -1,5 +1,3 @@
-![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
 # 🚀 Discord Bot Website Template
 
 ## 🖼️ Screenshots
@@ -59,3 +57,5 @@ Some of the images used in this template are sourced from external platforms suc
 If you have any questions or feedback, feel free to contact me:
 
 Discord: .bardoth
+
+![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
