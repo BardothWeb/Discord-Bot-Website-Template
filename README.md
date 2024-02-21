@@ -1,6 +1,6 @@
 ![Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
 ![Maintain](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-
+<hr>
 # 🚀 Discord Bot Website Template
 
 ## 🖼️ Screenshots
